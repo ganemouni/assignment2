@@ -1,0 +1,33 @@
+.navcolor{
+	background-color: #563d7c;
+}
+.navcolor a{
+	padding-right: 30px;
+}
+.getcenter{
+	padding-top: 20px
+}
+#footer-main{
+	background-color:#D3D3D3;
+}
+.start{
+	padding-top: 20px;
+}
+.getdown{
+	padding-top: 120px;
+	font-family: sans-serif;
+}
+.slide{
+	padding-top: 100px;
+}
+.carousel-item img{
+	height:500px;
+}
+
+.adjust{
+	height:100px;
+	width: 100px;
+}
+#makecenter{
+	text-align: center;
+}
